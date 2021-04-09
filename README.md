@@ -4,6 +4,10 @@
 
 A tiny cli I made on a fling.
 
+```bash
+pip install html-to-mp3
+```
+
 ## CLI
 
 Basic use:
