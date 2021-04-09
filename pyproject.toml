@@ -1,7 +1,10 @@
 [tool.poetry]
 name = "html-to-mp3"
-version = "0.1.0"
 description = "Convert HTML and text to mp3s"
+version = "0.2.0"
+license = "MIT"
+readme = "README.md"
+repository = "https://github.com/michaelwooley/html-to-mp3"
 authors = ["Michael Wooley <wm.wooley@gmail.com>"]
 
 [tool.poetry.scripts]
